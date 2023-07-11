@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1689039744477,430,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-6,text,true,,957,815,116,116,http://trans.icheckdev.com/,426,0,195
+1689039744476,438,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-4,text,true,,957,815,117,117,http://trans.icheckdev.com/,438,0,213
+1689039744479,439,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-18,text,true,,957,815,118,118,http://trans.icheckdev.com/,439,0,215
+1689039744535,383,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-42,text,true,,957,815,118,118,http://trans.icheckdev.com/,383,0,145
+1689039744570,350,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-49,text,true,,957,815,119,119,http://trans.icheckdev.com/,350,0,130
+1689039744530,390,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-41,text,true,,957,815,119,119,http://trans.icheckdev.com/,390,0,154
+1689039744477,448,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-21,text,true,,957,815,119,119,http://trans.icheckdev.com/,448,0,229
+1689039744476,448,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-10,text,true,,957,815,119,119,http://trans.icheckdev.com/,448,0,229
+1689039744524,426,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-40,text,true,,957,815,124,124,http://trans.icheckdev.com/,426,0,186
+1689039744495,457,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-34,text,true,,957,815,125,125,http://trans.icheckdev.com/,457,0,221
+1689039744478,477,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-11,text,true,,957,815,126,126,http://trans.icheckdev.com/,477,0,237
+1689039744506,460,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-36,text,true,,957,815,128,128,http://trans.icheckdev.com/,460,0,214
+1689039744540,430,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-43,text,true,,957,815,129,129,http://trans.icheckdev.com/,430,0,189
+1689039744491,479,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-33,text,true,,957,815,129,129,http://trans.icheckdev.com/,479,0,234
+1689039744476,538,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-13,text,true,,957,815,137,137,http://trans.icheckdev.com/,538,0,254
+1689039744558,468,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-46,text,true,,957,815,140,140,http://trans.icheckdev.com/,468,0,178
+1689039744909,121,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-6,text,true,,957,857,141,141,http://trans.icheckdev.com/,121,0,0
+1689039744700,355,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-75,text,true,,957,815,145,145,http://trans.icheckdev.com/,355,0,114
+1689039744625,430,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-60,text,true,,957,815,145,145,http://trans.icheckdev.com/,430,0,137
+1689039744677,378,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-70,text,true,,957,815,145,145,http://trans.icheckdev.com/,378,0,108
+1689039744715,343,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-78,text,true,,957,815,145,145,http://trans.icheckdev.com/,343,0,119
+1689039744719,339,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-79,text,true,,957,815,145,145,http://trans.icheckdev.com/,339,0,124
+1689039744731,346,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-81,text,true,,957,815,149,149,http://trans.icheckdev.com/,346,0,160
+1689039744919,166,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-18,text,true,,957,857,151,151,http://trans.icheckdev.com/,166,0,0
+1689039744726,359,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-80,text,true,,957,815,151,151,http://trans.icheckdev.com/,359,0,161
+1689039744920,169,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-49,text,true,,957,857,151,151,http://trans.icheckdev.com/,169,0,0
+1689039744950,156,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-40,text,true,,957,857,153,153,http://trans.icheckdev.com/,156,0,0
+1689039744575,551,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-50,text,true,,957,815,156,156,http://trans.icheckdev.com/,551,0,119
+1689039744755,381,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-86,text,true,,957,815,158,158,http://trans.icheckdev.com/,381,0,187
+1689039744952,188,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-34,text,true,,957,857,159,159,http://trans.icheckdev.com/,188,0,0
+1689039744920,224,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-41,text,true,,957,857,158,158,http://trans.icheckdev.com/,224,0,0
+1689039744545,599,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-44,text,true,,957,815,158,158,http://trans.icheckdev.com/,599,0,191
+1689039744971,181,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-43,text,true,,957,857,159,159,http://trans.icheckdev.com/,181,0,0
+1689039744566,586,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-48,text,true,,957,815,159,159,http://trans.icheckdev.com/,586,0,107
+1689039744957,195,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-11,text,true,,957,857,159,159,http://trans.icheckdev.com/,195,0,0
+1689039744967,188,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-36,text,true,,957,857,158,158,http://trans.icheckdev.com/,188,0,0
+1689039744759,396,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-87,text,true,,957,815,158,158,http://trans.icheckdev.com/,396,0,188
+1689039744477,679,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-9,text,true,,957,815,157,157,http://trans.icheckdev.com/,679,0,229
+1689039744744,416,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-84,text,true,,957,815,158,158,http://trans.icheckdev.com/,416,0,205
+1689039744774,390,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-90,text,true,,957,815,158,158,http://trans.icheckdev.com/,390,0,168
+1689039744800,392,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-95,text,true,,957,815,164,164,http://trans.icheckdev.com/,392,0,161
+1689039744804,391,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-96,text,true,,957,815,165,165,http://trans.icheckdev.com/,391,0,154
+1689039744795,402,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-94,text,true,,957,815,165,165,http://trans.icheckdev.com/,402,0,171
+1689039744809,397,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-97,text,true,,957,815,167,167,http://trans.icheckdev.com/,397,0,165
+1689039744820,390,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-99,text,true,,957,815,168,168,http://trans.icheckdev.com/,390,0,154
+1689039744477,739,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-16,text,true,,957,815,169,169,http://trans.icheckdev.com/,739,0,225
+1689039744814,403,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-98,text,true,,957,815,169,169,http://trans.icheckdev.com/,403,0,165
+1689039745015,202,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-13,text,true,,957,857,169,169,http://trans.icheckdev.com/,202,0,0
+1689039744824,397,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-100,text,true,,957,815,169,169,http://trans.icheckdev.com/,397,0,155
+1689039745026,198,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-46,text,true,,957,857,170,170,http://trans.icheckdev.com/,198,0,0
+1689039745055,194,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-75,text,true,,957,857,173,173,http://trans.icheckdev.com/,194,0,0
+1689039745055,197,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-60,text,true,,957,857,173,173,http://trans.icheckdev.com/,197,0,0
+1689039745055,200,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-70,text,true,,957,857,173,173,http://trans.icheckdev.com/,200,0,0
+1689039745058,222,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-78,text,true,,957,857,176,176,http://trans.icheckdev.com/,221,0,0
+1689039744895,502,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-114,text,true,,957,815,185,185,http://trans.icheckdev.com/,501,0,163
+1689039744850,547,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-105,text,true,,957,815,185,185,http://trans.icheckdev.com/,546,0,201
+1689039744886,513,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-112,text,true,,957,815,185,185,http://trans.icheckdev.com/,513,0,179
+1689039744891,581,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-113,text,true,,957,815,185,185,http://trans.icheckdev.com/,581,0,183
+1689039744916,556,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-118,text,true,,957,815,185,185,http://trans.icheckdev.com/,556,0,161
+1689039745397,140,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-114,text,true,,957,857,185,185,http://trans.icheckdev.com/,139,0,0
+1689039744940,612,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-123,text,true,,957,815,184,184,http://trans.icheckdev.com/,612,0,157
+1689039744920,632,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-119,text,true,,957,815,184,184,http://trans.icheckdev.com/,632,0,168
+1689039744632,958,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-61,text,true,,957,815,184,184,http://trans.icheckdev.com/,957,0,126
+1689039744991,601,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-133,text,true,,957,815,184,184,http://trans.icheckdev.com/,601,0,193
+1689039745040,555,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-143,text,true,,957,815,184,184,http://trans.icheckdev.com/,555,0,188
+1689039745045,609,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-144,text,true,,957,815,184,184,http://trans.icheckdev.com/,609,0,190
+1689039745036,621,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-142,text,true,,957,815,184,184,http://trans.icheckdev.com/,621,0,179
+1689039744477,1184,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-23,text,true,,957,815,184,184,http://trans.icheckdev.com/,1184,0,203
+1689039744476,1192,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-14,text,true,,957,815,184,184,http://trans.icheckdev.com/,1192,0,235
+1689039745054,617,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-146,text,true,,957,815,184,184,http://trans.icheckdev.com/,617,0,333
+1689039744477,1198,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-29,text,true,,957,815,184,184,http://trans.icheckdev.com/,1198,0,262
+1689039745069,628,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-149,text,true,,957,815,184,184,http://trans.icheckdev.com/,628,0,336
+1689039745079,618,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-151,text,true,,957,815,184,184,http://trans.icheckdev.com/,618,0,353
+1689039745085,621,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-152,text,true,,957,815,184,184,http://trans.icheckdev.com/,621,0,361
+1689039745089,619,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-153,text,true,,957,815,184,184,http://trans.icheckdev.com/,619,0,357
+1689039745109,599,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-157,text,true,,957,815,184,184,http://trans.icheckdev.com/,599,0,358
+1689039744480,1231,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-31,text,true,,957,815,184,184,http://trans.icheckdev.com/,1231,0,210
+1689039745119,605,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-159,text,true,,957,815,184,184,http://trans.icheckdev.com/,605,0,356
+1689039745473,251,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-113,text,true,,957,857,184,184,http://trans.icheckdev.com/,251,0,0
+1689039745144,597,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-44,text,true,,957,857,183,183,http://trans.icheckdev.com/,597,0,0
+1689039744479,1271,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-30,text,true,,957,815,182,182,http://trans.icheckdev.com/,1271,0,241
+1689039744478,1273,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-1,text,true,,957,815,182,182,http://trans.icheckdev.com/,1273,0,248
+1689039744842,910,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-103,text,true,,957,815,182,182,http://trans.icheckdev.com/,910,0,191
+1689039745151,604,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-165,text,true,,957,815,182,182,http://trans.icheckdev.com/,604,0,398
+1689039744650,1106,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-65,text,true,,957,815,182,182,http://trans.icheckdev.com/,1106,0,119
+1689039745209,550,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-177,text,true,,957,815,182,182,http://trans.icheckdev.com/,550,0,357
+1689039745175,593,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-170,text,true,,957,815,182,182,http://trans.icheckdev.com/,593,0,383
+1689039744961,807,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-127,text,true,,957,815,182,182,http://trans.icheckdev.com/,807,0,161
+1689039745185,587,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-172,text,true,,957,815,182,182,http://trans.icheckdev.com/,587,0,378
+1689039744656,1128,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-66,text,true,,957,815,182,182,http://trans.icheckdev.com/,1128,0,119
+1689039745205,595,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-176,text,true,,957,815,182,182,http://trans.icheckdev.com/,595,0,370
+1689039745225,577,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-180,text,true,,957,815,182,182,http://trans.icheckdev.com/,577,0,360
+1689039744666,1138,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-68,text,true,,957,815,182,182,http://trans.icheckdev.com/,1138,0,111
+1689039745590,214,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-61,text,true,,957,857,182,182,http://trans.icheckdev.com/,214,0,0
+1689039744671,1136,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-69,text,true,,957,815,181,181,http://trans.icheckdev.com/,1136,0,109
+1689039744645,1181,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-64,text,true,,957,815,181,181,http://trans.icheckdev.com/,1181,0,126
+1689039744865,963,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-108,text,true,,957,815,181,181,http://trans.icheckdev.com/,963,0,181
+1689039744829,999,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-101,text,true,,957,815,181,181,http://trans.icheckdev.com/,999,0,214
+1689039745241,594,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-183,text,true,,957,815,181,181,http://trans.icheckdev.com/,594,0,362
+1689039745595,242,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-143,text,true,,957,857,181,181,http://trans.icheckdev.com/,242,0,0
+1689039745245,601,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-184,text,true,,957,815,180,180,http://trans.icheckdev.com/,601,0,362
+1689039745006,845,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-136,text,true,,957,815,180,180,http://trans.icheckdev.com/,845,0,161
+1689039745164,687,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-90,text,true,,957,857,180,180,http://trans.icheckdev.com/,687,0,0
+1689039744860,994,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-107,text,true,,957,815,179,179,http://trans.icheckdev.com/,994,0,191
+1689039744846,1010,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-104,text,true,,957,815,179,179,http://trans.icheckdev.com/,1010,0,205
+1689039744871,985,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-109,text,true,,957,815,179,179,http://trans.icheckdev.com/,985,0,175
+1689039744835,1024,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-102,text,true,,957,815,179,179,http://trans.icheckdev.com/,1024,0,202
+1689039745195,670,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-96,text,true,,957,857,179,179,http://trans.icheckdev.com/,670,0,0
+1689039745276,592,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-190,text,true,,957,815,178,178,http://trans.icheckdev.com/,592,0,343
+1689039744857,1023,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-106,text,true,,957,815,178,178,http://trans.icheckdev.com/,1023,0,198
+1689039745197,685,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-94,text,true,,957,857,178,178,http://trans.icheckdev.com/,685,0,0
+1689039745126,773,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-50,text,true,,957,857,177,177,http://trans.icheckdev.com/,773,0,0
+1689039744559,1343,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-47,text,true,,957,815,176,176,http://trans.icheckdev.com/,1343,0,125
+1689039745060,848,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-147,text,true,,957,815,176,176,http://trans.icheckdev.com/,848,0,329
+1689039745075,833,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-150,text,true,,957,815,176,176,http://trans.icheckdev.com/,833,0,362
+1689039745397,511,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-105,text,true,,957,857,176,176,http://trans.icheckdev.com/,511,0,0
+1689039745160,752,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-84,text,true,,957,857,175,175,http://trans.icheckdev.com/,752,0,0
+1689039744915,999,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-4,text,true,,957,857,174,174,http://trans.icheckdev.com/,999,0,0
+1689039744919,998,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-42,text,true,,957,857,173,173,http://trans.icheckdev.com/,998,0,0
+1689039745064,853,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-148,text,true,,957,815,173,173,http://trans.icheckdev.com/,853,0,329
+1689039744735,1185,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-82,text,true,,957,815,172,172,http://trans.icheckdev.com/,1185,0,163
+1689039744689,1231,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-73,text,true,,957,815,172,172,http://trans.icheckdev.com/,1231,0,119
+1689039745669,259,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-14,text,true,,957,857,172,172,http://trans.icheckdev.com/,259,0,0
+1689039744785,1148,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-92,text,true,,957,815,171,171,http://trans.icheckdev.com/,1148,0,169
+1689039744479,1457,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-24,text,true,,957,815,171,171,http://trans.icheckdev.com/,1457,0,218
+1689039744476,1466,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-5,text,true,,957,815,171,171,http://trans.icheckdev.com/,1466,0,248
+1689039745473,483,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-118,text,true,,957,857,171,171,http://trans.icheckdev.com/,483,0,0
+1689039745672,287,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-146,text,true,,957,857,170,170,http://trans.icheckdev.com/,287,0,0
+1689039744617,1342,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-58,text,true,,957,815,170,170,http://trans.icheckdev.com/,1342,0,148
+1689039744478,1483,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-8,text,true,,957,815,169,169,http://trans.icheckdev.com/,1483,0,269
+1689039745131,831,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-161,text,true,,957,815,169,169,http://trans.icheckdev.com/,831,0,344
+1689039745125,840,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-160,text,true,,957,815,169,169,http://trans.icheckdev.com/,840,0,357
+1689039745116,849,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-158,text,true,,957,815,169,169,http://trans.icheckdev.com/,849,0,366
+1689039745101,868,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-155,text,true,,957,815,169,169,http://trans.icheckdev.com/,868,0,357
+1689039745105,864,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-156,text,true,,957,815,169,169,http://trans.icheckdev.com/,863,0,346
+1689039745138,833,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-163,text,true,,957,815,169,169,http://trans.icheckdev.com/,833,0,351
+1689039745553,430,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-123,text,true,,957,857,169,169,http://trans.icheckdev.com/,430,0,0
+1689039744477,1508,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-22,text,true,,957,815,168,168,http://trans.icheckdev.com/,1508,0,268
+1689039745234,754,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-182,text,true,,957,815,168,168,http://trans.icheckdev.com/,754,0,358
+1689039745189,811,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-173,text,true,,957,815,168,168,http://trans.icheckdev.com/,811,0,382
+1689039745214,788,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-178,text,true,,957,815,168,168,http://trans.icheckdev.com/,788,0,371
+1689039745194,808,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-174,text,true,,957,815,168,168,http://trans.icheckdev.com/,808,0,379
+1689039745706,296,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-152,text,true,,957,857,168,168,http://trans.icheckdev.com/,296,0,0
+1689039744636,1369,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-62,text,true,,957,815,167,167,http://trans.icheckdev.com/,1369,0,129
+1689039745250,757,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-185,text,true,,957,815,167,167,http://trans.icheckdev.com/,757,0,348
+1689039744957,1056,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-126,text,true,,957,815,167,167,http://trans.icheckdev.com/,1056,0,158
+1689039745709,312,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-153,text,true,,957,857,167,167,http://trans.icheckdev.com/,312,0,0
+1689039745220,804,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-179,text,true,,957,815,166,166,http://trans.icheckdev.com/,804,0,357
+1689039745157,873,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-9,text,true,,957,857,166,166,http://trans.icheckdev.com/,873,0,0
+1689039745300,733,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-195,text,true,,957,815,165,165,http://trans.icheckdev.com/,732,0,326
+1689039745676,362,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-29,text,true,,957,857,165,165,http://trans.icheckdev.com/,362,0,0
+1689039745712,326,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-31,text,true,,957,857,165,165,http://trans.icheckdev.com/,326,0,0
+1689039744971,1069,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-33,text,true,,957,857,163,163,http://trans.icheckdev.com/,1069,0,0
+1689039745697,343,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-151,text,true,,957,857,163,163,http://trans.icheckdev.com/,343,0,0
+1689039745752,289,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-1,text,true,,957,857,163,163,http://trans.icheckdev.com/,288,0,0
+1689039745725,318,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-159,text,true,,957,857,160,160,http://trans.icheckdev.com/,318,0,0
+1689039745709,337,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-157,text,true,,957,857,159,159,http://trans.icheckdev.com/,337,0,0
+1689039745657,393,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-142,text,true,,957,857,158,158,http://trans.icheckdev.com/,393,0,0
+1689039745296,754,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-194,text,true,,957,815,158,158,http://trans.icheckdev.com/,754,0,323
+1689039744485,1571,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-32,text,true,,957,815,157,157,http://trans.icheckdev.com/,1571,0,267
+1689039744478,1582,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-7,text,true,,957,815,157,157,http://trans.icheckdev.com/,1582,0,271
+1689039745078,986,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-81,text,true,,957,857,157,157,http://trans.icheckdev.com/,986,0,0
+1689039744550,1514,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-45,text,true,,957,815,157,157,http://trans.icheckdev.com/,1514,0,181
+1689039744478,1590,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-2,text,true,,957,815,156,156,http://trans.icheckdev.com/,1590,0,261
+1689039745697,375,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-149,text,true,,957,857,156,156,http://trans.icheckdev.com/,375,0,0
+1689039745750,322,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-30,text,true,,957,857,156,156,http://trans.icheckdev.com/,322,0,0
+1689039745759,315,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-177,text,true,,957,857,154,154,http://trans.icheckdev.com/,315,0,0
+1689039745058,1022,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-79,text,true,,957,857,153,153,http://trans.icheckdev.com/,1022,0,0
+1689039745029,1051,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-141,text,true,,957,815,153,153,http://trans.icheckdev.com/,1051,0,173
+1689039744686,1397,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-72,text,true,,957,815,152,152,http://trans.icheckdev.com/,1397,0,108
+1689039744705,1378,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-76,text,true,,957,815,152,152,http://trans.icheckdev.com/,1378,0,120
+1689039744925,1164,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-10,text,true,,957,857,152,152,http://trans.icheckdev.com/,1164,0,0
+1689039744477,1611,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-12,text,true,,957,815,152,152,http://trans.icheckdev.com/,1611,0,234
+1689039745752,340,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-103,text,true,,957,857,151,151,http://trans.icheckdev.com/,340,0,0
+1689039744770,1322,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-89,text,true,,957,815,151,151,http://trans.icheckdev.com/,1322,0,174
+1689039744880,1217,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-111,text,true,,957,815,150,150,http://trans.icheckdev.com/,1217,0,178
+1689039744925,1175,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-21,text,true,,957,857,150,150,http://trans.icheckdev.com/,1175,0,0
+1689039744765,1335,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-88,text,true,,957,815,150,150,http://trans.icheckdev.com/,1335,0,177
+1689039744694,1409,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-74,text,true,,957,815,149,149,http://trans.icheckdev.com/,1409,0,114
+1689039745756,347,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-165,text,true,,957,857,149,149,http://trans.icheckdev.com/,347,0,0
+1689039745756,350,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-65,text,true,,957,857,148,148,http://trans.icheckdev.com/,350,0,0
+1689039745768,340,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-127,text,true,,957,857,147,147,http://trans.icheckdev.com/,340,0,0
+1689039744710,1402,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-77,text,true,,957,815,146,146,http://trans.icheckdev.com/,1402,0,118
+1689039745784,331,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-66,text,true,,957,857,146,146,http://trans.icheckdev.com/,331,0,0
+1689039744500,1617,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-35,text,true,,957,815,145,145,http://trans.icheckdev.com/,1617,0,1277
+1689039744515,1602,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-37,text,true,,957,815,145,145,http://trans.icheckdev.com/,1602,0,239
+1689039745768,361,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-170,text,true,,957,857,145,145,http://trans.icheckdev.com/,361,0,0
+1689039745807,327,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-69,text,true,,957,857,144,144,http://trans.icheckdev.com/,327,0,0
+1689039744476,1666,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-3,text,true,,957,815,143,143,http://trans.icheckdev.com/,1666,0,1335
+1689039745856,292,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-109,text,true,,957,857,143,143,http://trans.icheckdev.com/,292,0,0
+1689039745902,251,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-47,text,true,,957,857,142,142,http://trans.icheckdev.com/,251,0,0
+1689039745933,220,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-92,text,true,,957,857,142,142,http://trans.icheckdev.com/,220,0,0
+1689039745661,496,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-23,text,true,,957,857,140,140,http://trans.icheckdev.com/,496,0,0
+1689039745805,352,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-68,text,true,,957,857,140,140,http://trans.icheckdev.com/,352,0,0
+1689039745854,304,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-107,text,true,,957,857,140,140,http://trans.icheckdev.com/,303,0,0
+1689039744515,1644,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-38,text,true,,957,815,137,137,http://trans.icheckdev.com/,1644,0,1269
+1689039745826,333,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-64,text,true,,957,857,137,137,http://trans.icheckdev.com/,333,0,0
+1689039744584,1578,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-52,text,true,,957,815,136,136,http://trans.icheckdev.com/,1578,0,1193
+1689039745859,305,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-102,text,true,,957,857,136,136,http://trans.icheckdev.com/,305,0,0
+1689039744521,1643,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-39,text,true,,957,815,136,136,http://trans.icheckdev.com/,1643,0,1300
+1689039745206,962,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-97,text,true,,957,857,135,135,http://trans.icheckdev.com/,962,0,0
+1689039744477,1691,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-17,text,true,,957,815,135,135,http://trans.icheckdev.com/,1691,0,1297
+1689039745908,264,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-150,text,true,,957,857,134,134,http://trans.icheckdev.com/,264,0,0
+1689039744580,1592,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-51,text,true,,957,815,134,134,http://trans.icheckdev.com/,1592,0,1202
+1689039744479,1696,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-19,text,true,,957,815,133,133,http://trans.icheckdev.com/,1696,0,1339
+1689039744750,1429,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-85,text,true,,957,815,133,133,http://trans.icheckdev.com/,1429,0,1162
+1689039745943,256,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-5,text,true,,957,857,133,133,http://trans.icheckdev.com/,256,0,0
+1689039744479,1728,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-28,text,true,,957,815,132,132,http://trans.icheckdev.com/,1728,0,1311
+1689039745835,376,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-183,text,true,,957,857,132,132,http://trans.icheckdev.com/,376,0,0
+1689039745920,291,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-73,text,true,,957,857,132,132,http://trans.icheckdev.com/,291,0,0
+1689039744598,1616,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-54,text,true,,957,815,130,130,http://trans.icheckdev.com/,1616,0,1228
+1689039746002,215,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-178,text,true,,957,857,130,130,http://trans.icheckdev.com/,215,0,0
+1689039746050,167,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-194,text,true,,957,857,130,130,http://trans.icheckdev.com/,167,0,0
+1689039746024,196,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-179,text,true,,957,857,128,128,http://trans.icheckdev.com/,196,0,0
+1689039746002,218,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-174,text,true,,957,857,128,128,http://trans.icheckdev.com/,218,0,0
+1689039745868,361,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-190,text,true,,957,857,126,126,http://trans.icheckdev.com/,361,0,0
+1689039745153,1083,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-48,text,true,,957,857,125,125,http://trans.icheckdev.com/,1083,0,0
+1689039744479,1757,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-26,text,true,,957,815,125,125,http://trans.icheckdev.com/,1757,0,1320
+1689039746000,239,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-173,text,true,,957,857,124,124,http://trans.icheckdev.com/,239,0,0
+1689039746069,177,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-2,text,true,,957,857,123,123,http://trans.icheckdev.com/,177,0,0
+1689039745802,453,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-180,text,true,,957,857,122,122,http://trans.icheckdev.com/,453,0,0
+1689039745553,705,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-119,text,true,,957,857,121,121,http://trans.icheckdev.com/,705,0,0
+1689039745800,463,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-176,text,true,,957,857,120,120,http://trans.icheckdev.com/,463,0,0
+1689039744479,1784,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-20,text,true,,957,815,120,120,http://trans.icheckdev.com/,1784,0,1342
+1689039744478,1784,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-15,text,true,,957,815,120,120,http://trans.icheckdev.com/,1784,0,1333
+1689039746084,184,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-72,text,true,,957,857,119,119,http://trans.icheckdev.com/,184,0,0
+1689039746089,179,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-12,text,true,,957,857,119,119,http://trans.icheckdev.com/,179,0,0
+1689039746097,176,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-111,text,true,,957,857,117,117,http://trans.icheckdev.com/,176,0,0
+1689039745846,433,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-184,text,true,,957,857,116,116,http://trans.icheckdev.com/,433,0,0
+1689039744600,1679,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-55,text,true,,957,815,116,116,http://trans.icheckdev.com/,1679,0,1233
+1689039745828,454,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-108,text,true,,957,857,115,115,http://trans.icheckdev.com/,454,0,0
+1689039745192,1094,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-95,text,true,,957,857,114,114,http://trans.icheckdev.com/,1094,0,0
+1689039745852,436,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-136,text,true,,957,857,113,113,http://trans.icheckdev.com/,436,0,0
+1689039745856,434,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-104,text,true,,957,857,112,112,http://trans.icheckdev.com/,434,0,0
+1689039746117,173,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-35,text,true,,957,857,112,112,http://trans.icheckdev.com/,173,0,0
+1689039745210,1084,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-99,text,true,,957,857,110,110,http://trans.icheckdev.com/,1084,0,0
+1689039745880,422,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-106,text,true,,957,857,109,109,http://trans.icheckdev.com/,422,0,0
+1689039746117,185,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-37,text,true,,957,857,109,109,http://trans.icheckdev.com/,185,0,0
+1689039745400,906,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-112,text,true,,957,857,107,107,http://trans.icheckdev.com/,906,0,0
+1689039744739,1567,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-83,text,true,,957,815,107,107,http://trans.icheckdev.com/,1567,0,1163
+1689039745920,404,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-82,text,true,,957,857,106,106,http://trans.icheckdev.com/,404,0,0
+1689039745908,416,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-147,text,true,,957,857,106,106,http://trans.icheckdev.com/,416,0,0
+1689039745917,407,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-148,text,true,,957,857,106,106,http://trans.icheckdev.com/,407,0,0
+1689039744780,1544,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-91,text,true,,957,815,106,106,http://trans.icheckdev.com/,1544,0,1151
+1689039745936,391,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-24,text,true,,957,857,103,103,http://trans.icheckdev.com/,391,0,0
+1689039745966,371,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-160,text,true,,957,857,102,102,http://trans.icheckdev.com/,371,0,0
+1689039745962,377,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-161,text,true,,957,857,101,101,http://trans.icheckdev.com/,377,0,0
+1689039745972,371,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-163,text,true,,957,857,100,100,http://trans.icheckdev.com/,371,0,0
+1689039746005,341,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-62,text,true,,957,857,99,99,http://trans.icheckdev.com/,341,0,0
+1689039745989,361,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-182,text,true,,957,857,98,98,http://trans.icheckdev.com/,361,0,0
+1689039746014,345,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-126,text,true,,957,857,97,97,http://trans.icheckdev.com/,345,0,0
+1689039746007,354,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-185,text,true,,957,857,96,96,http://trans.icheckdev.com/,354,0,0
+1689039746033,331,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-195,text,true,,957,857,95,95,http://trans.icheckdev.com/,331,0,0
+1689039746165,201,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-39,text,true,,957,857,94,94,http://trans.icheckdev.com/,201,0,0
+1689039745655,715,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-144,text,true,,957,857,93,93,http://trans.icheckdev.com/,715,0,0
+1689039745085,1288,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-80,text,true,,957,857,92,92,http://trans.icheckdev.com/,1288,0,0
+1689039746179,197,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-85,text,true,,957,857,91,91,http://trans.icheckdev.com/,197,0,0
+1689039746056,326,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-32,text,true,,957,857,90,90,http://trans.icheckdev.com/,325,0,0
+1689039746064,320,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-45,text,true,,957,857,89,89,http://trans.icheckdev.com/,320,0,0
+1689039746081,316,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-141,text,true,,957,857,88,88,http://trans.icheckdev.com/,316,0,0
+1689039745025,1372,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-140,text,true,,957,815,88,88,http://trans.icheckdev.com/,1372,0,164
+1689039746084,320,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-76,text,true,,957,857,87,87,http://trans.icheckdev.com/,320,0,0
+1689039745009,1397,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-137,text,true,,957,815,86,86,http://trans.icheckdev.com/,1397,0,169
+1689039745218,1188,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-16,text,true,,957,857,86,86,http://trans.icheckdev.com/,1188,0,0
+1689039746092,318,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-89,text,true,,957,857,85,85,http://trans.icheckdev.com/,318,0,0
+1689039746100,313,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-88,text,true,,957,857,84,84,http://trans.icheckdev.com/,313,0,0
+1689039745169,1258,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-169,text,true,,957,815,83,83,http://trans.icheckdev.com/,1258,0,377
+1689039744969,1461,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-129,text,true,,957,815,83,83,http://trans.icheckdev.com/,1460,0,165
+1689039744874,1560,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-110,text,true,,957,815,83,83,http://trans.icheckdev.com/,1560,0,177
+1689039744980,1456,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-131,text,true,,957,815,83,83,http://trans.icheckdev.com/,1456,0,191
+1689039746112,324,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-77,text,true,,957,857,83,83,http://trans.icheckdev.com/,324,0,0
+1689039745000,1442,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-135,text,true,,957,815,82,82,http://trans.icheckdev.com/,1442,0,176
+1689039746215,232,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-54,text,true,,957,857,82,82,http://trans.icheckdev.com/,232,0,0
+1689039745018,1434,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-138,text,true,,957,815,81,81,http://trans.icheckdev.com/,1434,0,171
+1689039744930,1527,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-121,text,true,,957,815,81,81,http://trans.icheckdev.com/,1527,0,158
+1689039744945,1516,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-124,text,true,,957,815,81,81,http://trans.icheckdev.com/,1516,0,164
+1689039744900,1561,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-115,text,true,,957,815,81,81,http://trans.icheckdev.com/,1561,0,174
+1689039745222,1242,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-100,text,true,,957,857,81,81,http://trans.icheckdev.com/,1242,0,0
+1689039744927,1537,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-120,text,true,,957,815,81,81,http://trans.icheckdev.com/,1537,0,170
+1689039746168,299,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-17,text,true,,957,857,80,80,http://trans.icheckdev.com/,299,0,0
+1689039746263,213,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-15,text,true,,957,857,79,79,http://trans.icheckdev.com/,212,0,0
+1689039745304,1173,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-196,text,true,,957,815,78,78,http://trans.icheckdev.com/,1173,0,310
+1689039744905,1584,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-116,text,true,,957,815,78,78,http://trans.icheckdev.com/,1584,0,172
+1689039744967,1522,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-128,text,true,,957,815,78,78,http://trans.icheckdev.com/,1522,0,167
+1689039746279,232,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-55,text,true,,957,857,78,78,http://trans.icheckdev.com/,232,0,0
+1689039746306,211,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-83,text,true,,957,857,77,77,http://trans.icheckdev.com/,211,0,0
+1689039746324,200,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-91,text,true,,957,857,76,76,http://trans.icheckdev.com/,200,0,0
+1689039745310,1220,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-197,text,true,,957,815,75,75,http://trans.icheckdev.com/,1220,0,324
+1689039745282,1257,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-191,text,true,,957,815,75,75,http://trans.icheckdev.com/,1257,0,339
+1689039745160,1378,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-167,text,true,,957,815,75,75,http://trans.icheckdev.com/,1378,0,1164
+1689039745180,1359,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-171,text,true,,957,815,75,75,http://trans.icheckdev.com/,1359,0,1170
+1689039745266,1277,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-188,text,true,,957,815,75,75,http://trans.icheckdev.com/,1277,0,365
+1689039744661,1889,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-67,text,true,,957,815,75,75,http://trans.icheckdev.com/,1889,0,114
+1689039745229,1321,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-181,text,true,,957,815,75,75,http://trans.icheckdev.com/,1321,0,1162
+1689039744680,1873,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-71,text,true,,957,815,75,75,http://trans.icheckdev.com/,1873,0,109
+1689039745773,782,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-172,text,true,,957,857,75,75,http://trans.icheckdev.com/,782,0,0
+1689039746175,390,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-19,text,true,,957,857,74,74,http://trans.icheckdev.com/,390,0,0
+1689039744951,1620,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-125,text,true,,957,815,73,73,http://trans.icheckdev.com/,1620,0,164
+1689039745969,602,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-156,text,true,,957,857,73,73,http://trans.icheckdev.com/,602,0,0
+1689039745959,612,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-58,text,true,,957,857,73,73,http://trans.icheckdev.com/,612,0,0
+1689039745962,611,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-8,text,true,,957,857,71,71,http://trans.icheckdev.com/,611,0,0
+1689039745136,1437,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-86,text,true,,957,857,71,71,http://trans.icheckdev.com/,1437,0,0
+1689039745966,608,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-158,text,true,,957,857,69,69,http://trans.icheckdev.com/,608,0,0
+1689039745592,987,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-133,text,true,,957,857,68,68,http://trans.icheckdev.com/,987,0,0
+1689039745094,1487,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-154,text,true,,957,815,67,67,http://trans.icheckdev.com/,1487,0,355
+1689039745255,1329,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-186,text,true,,957,815,67,67,http://trans.icheckdev.com/,1329,0,356
+1689039745326,1258,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-200,text,true,,957,815,67,67,http://trans.icheckdev.com/,1258,0,312
+1689039746436,153,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-131,text,true,,957,857,67,67,http://trans.icheckdev.com/,153,0,0
+1689039745218,1371,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-98,text,true,,957,857,67,67,http://trans.icheckdev.com/,1371,0,0
+1689039746430,162,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-129,text,true,,957,857,65,65,http://trans.icheckdev.com/,162,0,0
+1689039746428,164,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-169,text,true,,957,857,65,65,http://trans.icheckdev.com/,164,0,0
+1689039745969,626,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-155,text,true,,957,857,63,63,http://trans.icheckdev.com/,626,0,0
+1689039745155,1443,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-87,text,true,,957,857,62,62,http://trans.icheckdev.com/,1443,0,0
+1689039746462,136,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-124,text,true,,957,857,62,62,http://trans.icheckdev.com/,136,0,0
+1689039746453,147,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-138,text,true,,957,857,60,60,http://trans.icheckdev.com/,147,0,0
+1689039746464,140,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-120,text,true,,957,857,59,59,http://trans.icheckdev.com/,140,0,0
+1689039745020,1584,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-139,text,true,,957,815,59,59,http://trans.icheckdev.com/,1584,0,166
+1689039746207,403,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-28,text,true,,957,857,58,58,http://trans.icheckdev.com/,403,0,0
+1689039744978,1632,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-130,text,true,,957,815,58,58,http://trans.icheckdev.com/,1632,0,179
+1689039746237,377,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-26,text,true,,957,857,57,57,http://trans.icheckdev.com/,377,0,0
+1689039744995,1622,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-134,text,true,,957,815,56,56,http://trans.icheckdev.com/,1622,0,181
+1689039746263,359,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-20,text,true,,957,857,56,56,http://trans.icheckdev.com/,359,0,0
+1689039746489,136,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-116,text,true,,957,857,55,55,http://trans.icheckdev.com/,136,0,0
+1689039745285,1343,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-192,text,true,,957,815,54,54,http://trans.icheckdev.com/,1343,0,329
+1689039744984,1657,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-132,text,true,,957,815,54,54,http://trans.icheckdev.com/,1657,0,192
+1689039745290,1355,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-193,text,true,,957,815,54,54,http://trans.icheckdev.com/,1355,0,331
+1689039745321,1334,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-199,text,true,,957,815,54,54,http://trans.icheckdev.com/,1334,0,324
+1689039744477,2186,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-27,text,true,,957,815,54,54,http://trans.icheckdev.com/,2186,0,266
+1689039746553,110,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-71,text,true,,957,857,54,54,http://trans.icheckdev.com/,110,0,0
+1689039746539,127,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-167,text,true,,957,857,53,53,http://trans.icheckdev.com/,127,0,0
+1689039746543,130,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-188,text,true,,957,857,52,52,http://trans.icheckdev.com/,130,0,0
+1689039744621,2052,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-59,text,true,,957,815,52,52,http://trans.icheckdev.com/,2052,0,144
+1689039745155,1518,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-166,text,true,,957,815,52,52,http://trans.icheckdev.com/,1518,0,1169
+1689039745315,1361,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-198,text,true,,957,815,51,51,http://trans.icheckdev.com/,1361,0,325
+1689039744479,2199,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-25,text,true,,957,815,51,51,http://trans.icheckdev.com/,2199,0,266
+1689039744609,2086,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-57,text,true,,957,815,51,51,http://trans.icheckdev.com/,2086,0,149
+1689039745165,1533,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-168,text,true,,957,815,51,51,http://trans.icheckdev.com/,1533,0,1168
+1689039745271,1429,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-189,text,true,,957,815,51,51,http://trans.icheckdev.com/,1429,0,360
+1689039746582,130,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-154,text,true,,957,857,51,51,http://trans.icheckdev.com/,130,0,0
+1689039746397,315,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-140,text,true,,957,857,51,51,http://trans.icheckdev.com/,315,0,0
+1689039746584,128,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-200,text,true,,957,857,51,51,http://trans.icheckdev.com/,128,0,0
+1689039745259,1456,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-187,text,true,,957,815,48,48,http://trans.icheckdev.com/,1456,0,369
+1689039746407,312,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-137,text,true,,957,857,48,48,http://trans.icheckdev.com/,312,0,0
+1689039746434,287,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-110,text,true,,957,857,47,47,http://trans.icheckdev.com/,287,0,0
+1689039744789,1936,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-93,text,true,,957,815,46,46,http://trans.icheckdev.com/,1936,0,1149
+1689039746617,111,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-134,text,true,,957,857,46,46,http://trans.icheckdev.com/,111,0,0
+1689039746442,290,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-135,text,true,,957,857,45,45,http://trans.icheckdev.com/,290,0,0
+1689039746629,103,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-192,text,true,,957,857,45,45,http://trans.icheckdev.com/,103,0,0
+1689039746462,273,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-115,text,true,,957,857,43,43,http://trans.icheckdev.com/,273,0,0
+1689039746458,290,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-121,text,true,,957,857,42,42,http://trans.icheckdev.com/,290,0,0
+1689039745145,1605,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-164,text,true,,957,815,41,41,http://trans.icheckdev.com/,1605,0,337
+1689039746477,273,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-196,text,true,,957,857,41,41,http://trans.icheckdev.com/,273,0,0
+1689039745135,1619,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-162,text,true,,957,815,40,40,http://trans.icheckdev.com/,1619,0,351
+1689039746163,591,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-52,text,true,,957,857,40,40,http://trans.icheckdev.com/,591,0,0
+1689039746645,112,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-193,text,true,,957,857,39,39,http://trans.icheckdev.com/,112,0,0
+1689039746663,101,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-27,text,true,,957,857,38,38,http://trans.icheckdev.com/,101,0,0
+1689039746489,275,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-128,text,true,,957,857,38,38,http://trans.icheckdev.com/,275,0,0
+1689039746531,236,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-197,text,true,,957,857,36,36,http://trans.icheckdev.com/,236,0,0
+1689039746539,244,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-191,text,true,,957,857,35,35,http://trans.icheckdev.com/,244,0,0
+1689039746539,249,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-171,text,true,,957,857,34,34,http://trans.icheckdev.com/,248,0,0
+1689039746679,109,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-25,text,true,,957,857,34,34,http://trans.icheckdev.com/,109,0,0
+1689039745828,967,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-101,text,true,,957,857,32,32,http://trans.icheckdev.com/,967,0,0
+1689039746676,122,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-198,text,true,,957,857,31,31,http://trans.icheckdev.com/,122,0,0
+1689039746550,253,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-181,text,true,,957,857,30,30,http://trans.icheckdev.com/,253,0,0
+1689039746550,255,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-67,text,true,,957,857,29,29,http://trans.icheckdev.com/,255,0,0
+1689039746699,109,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-168,text,true,,957,857,28,28,http://trans.icheckdev.com/,109,0,0
+1689039746103,711,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-74,text,true,,957,857,27,27,http://trans.icheckdev.com/,711,0,0
+1689039746172,649,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-51,text,true,,957,857,26,26,http://trans.icheckdev.com/,649,0,0
+1689039746061,760,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-7,text,true,,957,857,26,26,http://trans.icheckdev.com/,760,0,0
+1689039746571,251,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-125,text,true,,957,857,24,24,http://trans.icheckdev.com/,251,0,0
+1689039744605,2217,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-56,text,true,,957,815,24,24,http://trans.icheckdev.com/,2217,0,149
+1689039746584,246,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-186,text,true,,957,857,23,23,http://trans.icheckdev.com/,246,0,0
+1689039746604,229,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-139,text,true,,957,857,22,22,http://trans.icheckdev.com/,229,0,0
+1689039746726,111,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-93,text,true,,957,857,21,21,http://trans.icheckdev.com/,111,0,0
+1689039746610,239,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-130,text,true,,957,857,20,20,http://trans.icheckdev.com/,239,0,0
+1689039745200,1649,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-175,text,true,,957,815,20,20,http://trans.icheckdev.com/,1649,0,368
+1689039746641,208,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-132,text,true,,957,857,20,20,http://trans.icheckdev.com/,208,0,0
+1689039746655,208,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-199,text,true,,957,857,18,18,http://trans.icheckdev.com/,208,0,0
+1689039746754,111,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-162,text,true,,957,857,17,17,http://trans.icheckdev.com/,111,0,0
+1689039746673,192,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-59,text,true,,957,857,17,17,http://trans.icheckdev.com/,192,0,0
+1689039746674,204,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-166,text,true,,957,857,15,15,http://trans.icheckdev.com/,204,0,0
+1689039746159,719,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-38,text,true,,957,857,15,15,http://trans.icheckdev.com/,719,0,0
+1689039745986,895,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-22,text,true,,957,857,13,13,http://trans.icheckdev.com/,895,0,0
+1689039746695,186,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-57,text,true,,957,857,13,13,http://trans.icheckdev.com/,186,0,0
+1689039746701,192,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-189,text,true,,957,857,11,11,http://trans.icheckdev.com/,192,0,0
+1689039746715,183,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-187,text,true,,957,857,10,10,http://trans.icheckdev.com/,183,0,0
+1689039746143,768,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-3,text,true,,957,857,9,9,http://trans.icheckdev.com/,768,0,0
+1689039746751,160,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-164,text,true,,957,857,9,9,http://trans.icheckdev.com/,160,0,0
+1689039744589,2323,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-53,text,true,,957,815,7,7,http://trans.icheckdev.com/,2323,0,2194
+1689039746823,107,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-56,text,true,,957,857,7,7,http://trans.icheckdev.com/,107,0,0
+1689039746849,107,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-175,text,true,,957,857,6,6,http://trans.icheckdev.com/,107,0,0
+1689039746913,96,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-53,text,true,,957,857,5,5,http://trans.icheckdev.com/,96,0,0
+1689039744641,2535,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-63,text,true,,957,815,4,4,http://trans.icheckdev.com/,2535,0,130
+1689039747177,117,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-63,text,true,,957,857,4,4,http://trans.icheckdev.com/,117,0,0
+1689039745050,2313,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-145,text,true,,957,815,3,3,http://trans.icheckdev.com/,2313,0,187
+1689039747363,96,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-145,text,true,,957,857,3,3,http://trans.icheckdev.com/,96,0,0
+1689039744935,2650,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-122,text,true,,957,815,2,2,http://trans.icheckdev.com/,2650,0,162
+1689039744910,2676,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-117,text,true,,957,815,2,2,http://trans.icheckdev.com/,2676,0,164
+1689039747586,102,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-117,text,true,,957,857,2,2,http://trans.icheckdev.com/,102,0,0
+1689039747586,107,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-122,text,true,,957,857,1,1,http://trans.icheckdev.com/,107,0,0

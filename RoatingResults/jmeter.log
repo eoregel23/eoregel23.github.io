@@ -1,0 +1,42 @@
+2023-07-10 21:18:39,635 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-07-10 21:18:39,653 INFO o.a.j.JMeter: Loading user properties from: C:\Users\rigob\Documents\Instalados\apache-jmeter-5.5\bin\user.properties
+2023-07-10 21:18:39,653 INFO o.a.j.JMeter: Loading system properties from: C:\Users\rigob\Documents\Instalados\apache-jmeter-5.5\bin\system.properties
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: Version 5.5
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: java.version=17.0.6
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: os.name=Windows 11
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: os.arch=amd64
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: os.version=10.0
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: java.awt.headless=null
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-07-10 21:18:39,658 INFO o.a.j.JMeter: Available Processors =16
+2023-07-10 21:18:39,664 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-07-10 21:18:39,664 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-07-10 21:18:39,664 INFO o.a.j.JMeter: JMeterHome=C:\Users\rigob\Documents\Instalados\apache-jmeter-5.5
+2023-07-10 21:18:39,664 INFO o.a.j.JMeter: user.dir  =C:\Users\rigob\Documents\RoatingResults
+2023-07-10 21:18:39,664 INFO o.a.j.JMeter: PWD       =C:\Users\rigob\Documents\RoatingResults
+2023-07-10 21:18:39,684 INFO o.a.j.JMeter: IP: 192.168.100.6 Name: DESKTOP-9L9VGRF FullName: 192.168.100.6
+2023-07-10 21:18:39,689 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-07-10 21:18:39,811 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-07-10 21:18:46,444 INFO o.a.j.s.FileServer: Default base='C:\Users\rigob\Documents\RoatingResults'
+2023-07-10 21:18:46,446 INFO o.a.j.g.a.Load: Loading file: C:\Users\rigob\Documents\RoatingResults\ROUTING_NUMBER.jmx
+2023-07-10 21:18:46,446 INFO o.a.j.s.FileServer: Set new base='C:\Users\rigob\Documents\RoatingResults'
+2023-07-10 21:18:46,549 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-07-10 21:18:46,565 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-07-10 21:18:46,566 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-07-10 21:18:46,568 INFO o.a.j.s.SaveService: Loading file: C:\Users\rigob\Documents\RoatingResults\ROUTING_NUMBER.jmx
+2023-07-10 21:18:46,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-10 21:18:46,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-10 21:18:46,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-10 21:18:46,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-10 21:18:46,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-07-10 21:18:46,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-07-10 21:18:46,723 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-07-10 21:18:46,723 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-07-10 21:18:46,724 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-07-10 21:18:46,724 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-07-10 21:18:46,815 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2023-07-10 21:18:46,864 INFO o.a.j.s.FileServer: Set new base='C:\Users\rigob\Documents\RoatingResults'
+2023-07-10 21:19:09,463 INFO o.a.j.s.FileServer: Set new base='C:\Users\rigob\Documents\Instalados\apache-jmeter-5.5\bin'

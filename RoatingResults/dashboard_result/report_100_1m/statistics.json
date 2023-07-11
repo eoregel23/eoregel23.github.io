@@ -1,0 +1,50 @@
+{
+  "VerifyRoutingNumber - Not Found" : {
+    "transaction" : "VerifyRoutingNumber - Not Found",
+    "sampleCount" : 3033,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1643.2383778437204,
+    "medianResTime" : 858.0,
+    "minResTime" : 259.0,
+    "maxResTime" : 28678.0,
+    "pct1ResTime" : 3502.7999999999997,
+    "pct2ResTime" : 7233.0,
+    "pct3ResTime" : 15507.619999999999,
+    "throughput" : 44.742432288900694,
+    "receivedKBytesPerSec" : 41.81494892624801,
+    "sentKBytesPerSec" : 35.61043194868561
+  },
+  "VerifyRoutingNumber - Success" : {
+    "transaction" : "VerifyRoutingNumber - Success",
+    "sampleCount" : 2956,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 363.9387686062247,
+    "medianResTime" : 255.0,
+    "minResTime" : 89.0,
+    "maxResTime" : 7822.0,
+    "pct1ResTime" : 755.3000000000002,
+    "pct2ResTime" : 922.1500000000001,
+    "pct3ResTime" : 1755.0299999999966,
+    "throughput" : 51.21630050592557,
+    "receivedKBytesPerSec" : 47.86523396891676,
+    "sentKBytesPerSec" : 42.86364212263497
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5989,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1011.8124895641968,
+    "medianResTime" : 439.0,
+    "minResTime" : 89.0,
+    "maxResTime" : 28678.0,
+    "pct1ResTime" : 1953.0,
+    "pct2ResTime" : 3526.0,
+    "pct3ResTime" : 7900.200000000012,
+    "throughput" : 88.34897031923055,
+    "receivedKBytesPerSec" : 82.56832480029652,
+    "sentKBytesPerSec" : 72.10535684320972
+  }
+}
