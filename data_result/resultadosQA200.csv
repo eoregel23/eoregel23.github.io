@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1689732397197,350,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-40,text,true,,918,817,111,111,http://trans.icheckstage.com/,346,0,162
+1689732397157,389,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-4,text,true,,918,817,111,111,http://trans.icheckstage.com/,385,0,201
+1689732397157,389,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-18,text,true,,918,817,111,111,http://trans.icheckstage.com/,385,0,208
+1689732397160,386,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-3,text,true,,918,817,111,111,http://trans.icheckstage.com/,382,0,198
+1689732397158,389,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-27,text,true,,918,817,111,111,http://trans.icheckstage.com/,385,0,203
+1689732397177,370,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-37,text,true,,918,817,111,111,http://trans.icheckstage.com/,366,0,185
+1689732397206,341,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-43,text,true,,918,817,111,111,http://trans.icheckstage.com/,337,0,153
+1689732397160,386,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-6,text,true,,918,817,111,111,http://trans.icheckstage.com/,382,0,205
+1689732397160,387,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-34,text,true,,918,817,111,111,http://trans.icheckstage.com/,383,0,196
+1689732397246,301,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-51,text,true,,918,817,111,111,http://trans.icheckstage.com/,297,0,120
+1689732397180,367,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-38,text,true,,918,817,111,111,http://trans.icheckstage.com/,363,0,179
+1689732397210,341,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-44,text,true,,918,817,112,112,http://trans.icheckstage.com/,341,0,156
+1689732397159,392,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-28,text,true,,918,817,112,112,http://trans.icheckstage.com/,392,0,207
+1689732397261,290,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-54,text,true,,918,817,112,112,http://trans.icheckstage.com/,290,0,108
+1689732397231,320,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-48,text,true,,918,817,112,112,http://trans.icheckstage.com/,320,0,140
+1689732397236,318,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-49,text,true,,918,817,112,112,http://trans.icheckstage.com/,318,0,133
+1689732397160,394,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-24,text,true,,918,817,112,112,http://trans.icheckstage.com/,394,0,232
+1689732397159,394,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-17,text,true,,918,817,112,112,http://trans.icheckstage.com/,394,0,211
+1689732397160,396,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-26,text,true,,918,817,113,113,http://trans.icheckstage.com/,396,0,232
+1689732397157,404,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-11,text,true,,918,817,114,114,http://trans.icheckstage.com/,404,0,211
+1689732397161,419,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-22,text,true,,918,817,118,118,http://trans.icheckstage.com/,419,0,208
+1689732397160,420,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-33,text,true,,918,817,118,118,http://trans.icheckstage.com/,420,0,211
+1689732397159,420,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-1,text,true,,918,817,118,118,http://trans.icheckstage.com/,420,0,211
+1689732397201,396,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-42,text,true,,918,817,121,121,http://trans.icheckstage.com/,395,0,191
+1689732397171,431,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-36,text,true,,918,817,122,122,http://trans.icheckstage.com/,431,0,221
+1689732397159,442,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-2,text,true,,918,817,122,122,http://trans.icheckstage.com/,442,0,232
+1689732397272,332,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-56,text,true,,918,817,122,122,http://trans.icheckstage.com/,332,0,155
+1689732397240,364,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-50,text,true,,918,817,122,122,http://trans.icheckstage.com/,364,0,152
+1689732397160,443,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-7,text,true,,918,817,122,122,http://trans.icheckstage.com/,443,0,268
+1689732397158,446,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-19,text,true,,918,817,122,122,http://trans.icheckstage.com/,446,0,234
+1689732397220,386,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-46,text,true,,918,817,123,123,http://trans.icheckstage.com/,386,0,208
+1689732397157,450,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-9,text,true,,918,817,123,123,http://trans.icheckstage.com/,450,0,239
+1689732397264,345,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-55,text,true,,918,817,123,123,http://trans.icheckstage.com/,345,0,133
+1689732397216,394,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-45,text,true,,918,817,124,124,http://trans.icheckstage.com/,394,0,180
+1689732397185,425,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-39,text,true,,918,817,124,124,http://trans.icheckstage.com/,425,0,212
+1689732397197,466,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-41,text,true,,918,817,134,134,http://trans.icheckstage.com/,466,0,195
+1689732397161,502,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-20,text,true,,918,817,134,134,http://trans.icheckstage.com/,502,0,231
+1689732397158,505,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-29,text,true,,918,817,134,134,http://trans.icheckstage.com/,505,0,239
+1689732397276,394,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-57,text,true,,918,817,136,136,http://trans.icheckstage.com/,394,0,157
+1689732397256,414,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-53,text,true,,918,817,136,136,http://trans.icheckstage.com/,414,0,141
+1689732397159,510,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-15,text,true,,918,817,136,136,http://trans.icheckstage.com/,510,0,237
+1689732397161,509,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-30,text,true,,918,817,136,136,http://trans.icheckstage.com/,509,0,268
+1689732397296,376,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-61,text,true,,918,817,136,136,http://trans.icheckstage.com/,376,0,143
+1689732397158,514,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-23,text,true,,918,817,136,136,http://trans.icheckstage.com/,514,0,275
+1689732397300,377,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-62,text,true,,918,817,137,137,http://trans.icheckstage.com/,377,0,139
+1689732397157,519,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-5,text,true,,918,817,137,137,http://trans.icheckstage.com/,519,0,280
+1689732397167,537,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-35,text,true,,918,817,142,142,http://trans.icheckstage.com/,537,0,225
+1689732397370,337,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-76,text,true,,918,817,143,143,http://trans.icheckstage.com/,337,0,165
+1689732397310,444,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-64,text,true,,918,817,152,152,http://trans.icheckstage.com/,444,0,129
+1689732397159,594,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-10,text,true,,918,817,152,152,http://trans.icheckstage.com/,594,0,267
+1689732397225,529,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-47,text,true,,918,817,152,152,http://trans.icheckstage.com/,529,0,202
+1689732397285,469,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-59,text,true,,918,817,152,152,http://trans.icheckstage.com/,469,0,154
+1689732397157,596,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-16,text,true,,918,817,152,152,http://trans.icheckstage.com/,596,0,275
+1689732397549,206,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-34,text,true,,918,859,152,152,http://trans.icheckstage.com/,206,0,0
+1689732397549,206,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-4,text,true,,918,859,152,152,http://trans.icheckstage.com/,206,0,0
+1689732397158,598,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-21,text,true,,918,817,152,152,http://trans.icheckstage.com/,598,0,239
+1689732397157,598,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-13,text,true,,918,817,152,152,http://trans.icheckstage.com/,598,0,234
+1689732397549,208,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-37,text,true,,918,859,150,150,http://trans.icheckstage.com/,207,0,0
+1689732397384,372,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-79,text,true,,918,817,152,152,http://trans.icheckstage.com/,372,0,153
+1689732397376,380,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-77,text,true,,918,817,150,150,http://trans.icheckstage.com/,380,0,161
+1689732397549,225,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-6,text,true,,918,859,153,153,http://trans.icheckstage.com/,225,0,0
+1689732397549,225,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-18,text,true,,918,859,153,153,http://trans.icheckstage.com/,225,0,0
+1689732397549,225,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-43,text,true,,918,859,153,153,http://trans.icheckstage.com/,225,0,0
+1689732397305,470,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-63,text,true,,918,817,153,153,http://trans.icheckstage.com/,469,0,134
+1689732397549,226,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-40,text,true,,918,859,153,153,http://trans.icheckstage.com/,226,0,0
+1689732397331,444,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-68,text,true,,918,817,153,153,http://trans.icheckstage.com/,444,0,108
+1689732397549,226,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-27,text,true,,918,859,150,150,http://trans.icheckstage.com/,226,0,0
+1689732397350,428,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-72,text,true,,918,817,149,149,http://trans.icheckstage.com/,428,0,148
+1689732397359,419,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-74,text,true,,918,817,149,149,http://trans.icheckstage.com/,419,0,175
+1689732397160,617,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-8,text,true,,918,817,149,149,http://trans.icheckstage.com/,617,0,272
+1689732397358,424,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-73,text,true,,918,817,150,150,http://trans.icheckstage.com/,424,0,176
+1689732397324,463,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-67,text,true,,918,817,151,151,http://trans.icheckstage.com/,463,0,115
+1689732397158,629,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-25,text,true,,918,817,151,151,http://trans.icheckstage.com/,629,0,269
+1689732397380,407,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-78,text,true,,918,817,151,151,http://trans.icheckstage.com/,407,0,155
+1689732397335,452,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-69,text,true,,918,817,151,151,http://trans.icheckstage.com/,452,0,104
+1689732397420,367,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-86,text,true,,918,817,151,151,http://trans.icheckstage.com/,367,0,163
+1689732397581,206,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-22,text,true,,918,859,151,151,http://trans.icheckstage.com/,206,0,0
+1689732397554,250,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-24,text,true,,918,859,154,154,http://trans.icheckstage.com/,250,0,0
+1689732397550,256,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-38,text,true,,918,859,153,153,http://trans.icheckstage.com/,256,0,0
+1689732397556,250,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-26,text,true,,918,859,153,153,http://trans.icheckstage.com/,250,0,0
+1689732397365,463,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-75,text,true,,918,817,155,155,http://trans.icheckstage.com/,463,0,170
+1689732397552,280,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-54,text,true,,918,859,156,156,http://trans.icheckstage.com/,280,0,0
+1689732397552,283,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-48,text,true,,918,859,155,155,http://trans.icheckstage.com/,283,0,0
+1689732397552,283,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-28,text,true,,918,859,155,155,http://trans.icheckstage.com/,283,0,0
+1689732397554,281,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-17,text,true,,918,859,155,155,http://trans.icheckstage.com/,281,0,0
+1689732397554,283,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-49,text,true,,918,859,153,153,http://trans.icheckstage.com/,283,0,0
+1689732397552,291,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-44,text,true,,918,859,153,153,http://trans.icheckstage.com/,291,0,0
+1689732397391,452,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-80,text,true,,918,817,153,153,http://trans.icheckstage.com/,452,0,146
+1689732397435,408,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-89,text,true,,918,817,153,153,http://trans.icheckstage.com/,408,0,152
+1689732397449,397,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-92,text,true,,918,817,153,153,http://trans.icheckstage.com/,397,0,138
+1689732397455,393,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-93,text,true,,918,817,153,153,http://trans.icheckstage.com/,393,0,132
+1689732397321,527,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-66,text,true,,918,817,153,153,http://trans.icheckstage.com/,527,0,213
+1689732397404,444,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-83,text,true,,918,817,153,153,http://trans.icheckstage.com/,444,0,179
+1689732397431,417,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-88,text,true,,918,817,153,153,http://trans.icheckstage.com/,417,0,152
+1689732397549,304,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-3,text,true,,918,859,154,154,http://trans.icheckstage.com/,304,0,0
+1689732397424,430,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-87,text,true,,918,817,154,154,http://trans.icheckstage.com/,430,0,159
+1689732397606,274,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-46,text,true,,918,859,159,159,http://trans.icheckstage.com/,274,0,0
+1689732397581,299,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-33,text,true,,918,859,159,159,http://trans.icheckstage.com/,299,0,0
+1689732397549,331,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-51,text,true,,918,859,159,159,http://trans.icheckstage.com/,331,0,0
+1689732397604,279,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-56,text,true,,918,859,156,156,http://trans.icheckstage.com/,279,0,0
+1689732397602,281,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-36,text,true,,918,859,156,156,http://trans.icheckstage.com/,281,0,0
+1689732397396,490,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-81,text,true,,918,817,155,155,http://trans.icheckstage.com/,490,0,187
+1689732397604,291,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-7,text,true,,918,859,156,156,http://trans.icheckstage.com/,291,0,0
+1689732397602,293,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-2,text,true,,918,859,156,156,http://trans.icheckstage.com/,293,0,0
+1689732397604,296,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-50,text,true,,918,859,155,155,http://trans.icheckstage.com/,296,0,0
+1689732397401,504,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-82,text,true,,918,817,155,155,http://trans.icheckstage.com/,504,0,182
+1689732397516,441,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-105,text,true,,918,817,166,166,http://trans.icheckstage.com/,441,0,94
+1689732397490,468,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-100,text,true,,918,817,166,166,http://trans.icheckstage.com/,468,0,118
+1689732397581,409,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-1,text,true,,918,859,172,172,http://trans.icheckstage.com/,409,0,0
+1689732397563,430,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-11,text,true,,918,859,172,172,http://trans.icheckstage.com/,430,0,0
+1689732397664,365,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-41,text,true,,918,859,171,171,http://trans.icheckstage.com/,365,0,0
+1689732397664,365,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-29,text,true,,918,859,171,171,http://trans.icheckstage.com/,365,0,0
+1689732397604,425,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-19,text,true,,918,859,171,171,http://trans.icheckstage.com/,425,0,0
+1689732397555,493,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-113,text,true,,918,817,168,168,http://trans.icheckstage.com/,493,0,149
+1689732397440,610,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-90,text,true,,918,817,168,168,http://trans.icheckstage.com/,610,0,147
+1689732397560,490,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-114,text,true,,918,817,168,168,http://trans.icheckstage.com/,490,0,144
+1689732397459,591,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-94,text,true,,918,817,168,168,http://trans.icheckstage.com/,591,0,128
+1689732397480,573,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-98,text,true,,918,817,168,168,http://trans.icheckstage.com/,573,0,119
+1689732397524,529,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-107,text,true,,918,817,168,168,http://trans.icheckstage.com/,529,0,137
+1689732397521,532,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-106,text,true,,918,817,168,168,http://trans.icheckstage.com/,532,0,149
+1689732397570,485,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-116,text,true,,918,817,168,168,http://trans.icheckstage.com/,485,0,134
+1689732397605,473,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-123,text,true,,918,817,168,168,http://trans.icheckstage.com/,473,0,169
+1689732397564,514,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-115,text,true,,918,817,168,168,http://trans.icheckstage.com/,514,0,140
+1689732397585,493,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-119,text,true,,918,817,168,168,http://trans.icheckstage.com/,493,0,171
+1689732397466,612,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-95,text,true,,918,817,168,168,http://trans.icheckstage.com/,612,0,134
+1689732397757,327,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-13,text,true,,918,859,168,168,http://trans.icheckstage.com/,327,0,0
+1689732397757,327,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-77,text,true,,918,859,168,168,http://trans.icheckstage.com/,327,0,0
+1689732397756,328,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-21,text,true,,918,859,168,168,http://trans.icheckstage.com/,328,0,0
+1689732397775,309,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-63,text,true,,918,859,168,168,http://trans.icheckstage.com/,309,0,0
+1689732397754,331,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-47,text,true,,918,859,167,167,http://trans.icheckstage.com/,331,0,0
+1689732397754,331,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-59,text,true,,918,859,164,164,http://trans.icheckstage.com/,331,0,0
+1689732397755,330,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-64,text,true,,918,859,164,164,http://trans.icheckstage.com/,330,0,0
+1689732397754,331,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-10,text,true,,918,859,164,164,http://trans.icheckstage.com/,331,0,0
+1689732397755,330,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-16,text,true,,918,859,164,164,http://trans.icheckstage.com/,330,0,0
+1689732397757,345,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-79,text,true,,918,859,159,159,http://trans.icheckstage.com/,345,0,0
+1689732397589,518,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-120,text,true,,918,817,158,158,http://trans.icheckstage.com/,518,0,165
+1689732397595,521,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-121,text,true,,918,817,158,158,http://trans.icheckstage.com/,521,0,159
+1689732397470,647,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-96,text,true,,918,817,158,158,http://trans.icheckstage.com/,646,0,129
+1689732397597,525,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-42,text,true,,918,859,158,158,http://trans.icheckstage.com/,525,0,0
+1689732397625,497,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-127,text,true,,918,817,158,158,http://trans.icheckstage.com/,497,0,153
+1689732397475,647,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-97,text,true,,918,817,158,158,http://trans.icheckstage.com/,647,0,124
+1689732397414,710,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-85,text,true,,918,817,157,157,http://trans.icheckstage.com/,710,0,169
+1689732397787,337,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-67,text,true,,918,859,157,157,http://trans.icheckstage.com/,337,0,0
+1689732397486,638,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-99,text,true,,918,817,157,157,http://trans.icheckstage.com/,638,0,118
+1689732397787,337,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-86,text,true,,918,859,157,157,http://trans.icheckstage.com/,337,0,0
+1689732397787,338,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-69,text,true,,918,859,157,157,http://trans.icheckstage.com/,337,0,0
+1689732397787,348,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-25,text,true,,918,859,154,154,http://trans.icheckstage.com/,348,0,0
+1689732397787,348,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-78,text,true,,918,859,154,154,http://trans.icheckstage.com/,348,0,0
+1689732397610,540,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-124,text,true,,918,817,152,152,http://trans.icheckstage.com/,540,0,172
+1689732397778,394,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-8,text,true,,918,859,152,152,http://trans.icheckstage.com/,394,0,0
+1689732397778,399,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-72,text,true,,918,859,151,151,http://trans.icheckstage.com/,399,0,0
+1689732397775,408,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-68,text,true,,918,859,150,150,http://trans.icheckstage.com/,408,0,0
+1689732397783,401,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-73,text,true,,918,859,150,150,http://trans.icheckstage.com/,401,0,0
+1689732397671,549,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-15,text,true,,918,859,148,148,http://trans.icheckstage.com/,549,0,0
+1689732397671,549,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-57,text,true,,918,859,148,148,http://trans.icheckstage.com/,549,0,0
+1689732397672,550,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-61,text,true,,918,859,146,146,http://trans.icheckstage.com/,550,0,0
+1689732397671,567,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-53,text,true,,918,859,145,145,http://trans.icheckstage.com/,567,0,0
+1689732397664,574,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-20,text,true,,918,859,145,145,http://trans.icheckstage.com/,574,0,0
+1689732397316,922,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-65,text,true,,918,817,145,145,http://trans.icheckstage.com/,922,0,123
+1689732397672,566,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-23,text,true,,918,859,145,145,http://trans.icheckstage.com/,566,0,0
+1689732397159,1079,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-14,text,true,,918,817,145,145,http://trans.icheckstage.com/,1078,0,269
+1689732397158,1081,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-31,text,true,,918,817,143,143,http://trans.icheckstage.com/,1081,0,234
+1689732397671,570,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-30,text,true,,918,859,142,142,http://trans.icheckstage.com/,570,0,0
+1689732397677,564,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-5,text,true,,918,859,142,142,http://trans.icheckstage.com/,564,0,0
+1689732397292,961,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-60,text,true,,918,817,140,140,http://trans.icheckstage.com/,961,0,146
+1689732397161,1092,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-32,text,true,,918,817,140,140,http://trans.icheckstage.com/,1092,0,272
+1689732397677,581,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-62,text,true,,918,859,140,140,http://trans.icheckstage.com/,581,0,0
+1689732397854,407,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-87,text,true,,918,859,139,139,http://trans.icheckstage.com/,407,0,0
+1689732397848,415,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-83,text,true,,918,859,138,138,http://trans.icheckstage.com/,415,0,0
+1689732397705,558,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-35,text,true,,918,859,138,138,http://trans.icheckstage.com/,558,0,0
+1689732397778,503,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-74,text,true,,918,859,136,136,http://trans.icheckstage.com/,503,0,0
+1689732397707,581,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-76,text,true,,918,859,135,135,http://trans.icheckstage.com/,581,0,0
+1689732397887,427,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-81,text,true,,918,859,134,134,http://trans.icheckstage.com/,427,0,0
+1689732397957,360,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-105,text,true,,918,859,133,133,http://trans.icheckstage.com/,360,0,0
+1689732397905,422,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-82,text,true,,918,859,132,132,http://trans.icheckstage.com/,422,0,0
+1689732397959,368,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-100,text,true,,918,859,132,132,http://trans.icheckstage.com/,368,0,0
+1689732397345,998,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-71,text,true,,918,817,130,130,http://trans.icheckstage.com/,998,0,120
+1689732397339,1004,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-70,text,true,,918,817,130,130,http://trans.icheckstage.com/,1004,0,126
+1689732397795,572,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-161,text,true,,918,817,130,130,http://trans.icheckstage.com/,572,0,163
+1689732397776,591,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-157,text,true,,918,817,130,130,http://trans.icheckstage.com/,591,0,180
+1689732397770,600,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-156,text,true,,918,817,130,130,http://trans.icheckstage.com/,600,0,181
+1689732397765,605,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-155,text,true,,918,817,130,130,http://trans.icheckstage.com/,605,0,186
+1689732397780,590,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-158,text,true,,918,817,130,130,http://trans.icheckstage.com/,590,0,176
+1689732397750,622,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-152,text,true,,918,817,130,130,http://trans.icheckstage.com/,622,0,154
+1689732397281,1138,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-58,text,true,,918,817,130,130,http://trans.icheckstage.com/,1137,0,184
+1689732397506,913,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-103,text,true,,918,817,130,130,http://trans.icheckstage.com/,912,0,102
+1689732397500,919,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-102,text,true,,918,817,130,130,http://trans.icheckstage.com/,918,0,108
+1689732397510,909,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-104,text,true,,918,817,130,130,http://trans.icheckstage.com/,908,0,100
+1689732397786,659,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-159,text,true,,918,817,130,130,http://trans.icheckstage.com/,659,0,172
+1689732397725,720,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-147,text,true,,918,817,130,130,http://trans.icheckstage.com/,720,0,163
+1689732397740,705,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-150,text,true,,918,817,130,130,http://trans.icheckstage.com/,705,0,146
+1689732397745,700,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-151,text,true,,918,817,130,130,http://trans.icheckstage.com/,700,0,143
+1689732397801,645,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-162,text,true,,918,817,130,130,http://trans.icheckstage.com/,645,0,160
+1689732397822,624,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-166,text,true,,918,817,130,130,http://trans.icheckstage.com/,624,0,153
+1689732397827,619,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-167,text,true,,918,817,130,130,http://trans.icheckstage.com/,619,0,148
+1689732397792,657,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-160,text,true,,918,817,130,130,http://trans.icheckstage.com/,657,0,169
+1689732397866,583,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-175,text,true,,918,817,130,130,http://trans.icheckstage.com/,583,0,140
+1689732397840,609,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-170,text,true,,918,817,130,130,http://trans.icheckstage.com/,609,0,135
+1689732397761,688,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-154,text,true,,918,817,130,130,http://trans.icheckstage.com/,688,0,197
+1689732398049,414,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-113,text,true,,918,859,130,130,http://trans.icheckstage.com/,414,0,0
+1689732398050,413,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-90,text,true,,918,859,130,130,http://trans.icheckstage.com/,413,0,0
+1689732398051,414,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-94,text,true,,918,859,128,128,http://trans.icheckstage.com/,414,0,0
+1689732397610,859,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-45,text,true,,918,859,127,127,http://trans.icheckstage.com/,859,0,0
+1689732398051,418,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-114,text,true,,918,859,127,127,http://trans.icheckstage.com/,418,0,0
+1689732397609,864,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-9,text,true,,918,859,125,125,http://trans.icheckstage.com/,864,0,0
+1689732397611,865,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-39,text,true,,918,859,124,124,http://trans.icheckstage.com/,865,0,0
+1689732397901,580,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-182,text,true,,918,817,123,123,http://trans.icheckstage.com/,580,0,147
+1689732397702,792,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-142,text,true,,918,817,123,123,http://trans.icheckstage.com/,792,0,144
+1689732398053,441,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-107,text,true,,918,859,123,123,http://trans.icheckstage.com/,441,0,0
+1689732397896,612,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-181,text,true,,918,817,122,122,http://trans.icheckstage.com/,612,0,152
+1689732397671,839,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-136,text,true,,918,817,122,122,http://trans.icheckstage.com/,839,0,172
+1689732398053,463,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-98,text,true,,918,859,122,122,http://trans.icheckstage.com/,463,0,0
+1689732397695,821,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-141,text,true,,918,817,122,122,http://trans.icheckstage.com/,821,0,148
+1689732397711,805,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-144,text,true,,918,817,122,122,http://trans.icheckstage.com/,805,0,142
+1689732397848,668,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-88,text,true,,918,859,122,122,http://trans.icheckstage.com/,668,0,0
+1689732397665,852,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-135,text,true,,918,817,120,120,http://trans.icheckstage.com/,852,0,145
+1689732397929,589,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-188,text,true,,918,817,120,120,http://trans.icheckstage.com/,589,0,120
+1689732397828,694,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-75,text,true,,918,859,120,120,http://trans.icheckstage.com/,694,0,0
+1689732397846,676,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-92,text,true,,918,859,120,120,http://trans.icheckstage.com/,676,0,0
+1689732397844,681,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-89,text,true,,918,859,118,118,http://trans.icheckstage.com/,681,0,0
+1689732397843,685,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-80,text,true,,918,859,117,117,http://trans.icheckstage.com/,685,0,0
+1689732397409,1136,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-84,text,true,,918,817,116,116,http://trans.icheckstage.com/,1136,0,174
+1689732397848,697,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-93,text,true,,918,859,116,116,http://trans.icheckstage.com/,697,0,0
+1689732398055,502,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-116,text,true,,918,859,115,115,http://trans.icheckstage.com/,502,0,0
+1689732398078,479,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-119,text,true,,918,859,115,115,http://trans.icheckstage.com/,479,0,0
+1689732398078,484,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-115,text,true,,918,859,113,113,http://trans.icheckstage.com/,483,0,0
+1689732398053,509,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-106,text,true,,918,859,113,113,http://trans.icheckstage.com/,508,0,0
+1689732398122,442,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-127,text,true,,918,859,111,111,http://trans.icheckstage.com/,442,0,0
+1689732397892,672,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-180,text,true,,918,817,111,111,http://trans.icheckstage.com/,672,0,156
+1689732398117,447,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-96,text,true,,918,859,111,111,http://trans.icheckstage.com/,447,0,0
+1689732398117,447,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-121,text,true,,918,859,111,111,http://trans.icheckstage.com/,447,0,0
+1689732398107,460,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-120,text,true,,918,859,108,108,http://trans.icheckstage.com/,460,0,0
+1689732398078,492,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-123,text,true,,918,859,107,107,http://trans.icheckstage.com/,492,0,0
+1689732397940,635,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-190,text,true,,918,817,106,106,http://trans.icheckstage.com/,635,0,166
+1689732398122,455,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-97,text,true,,918,859,106,106,http://trans.icheckstage.com/,455,0,0
+1689732398078,532,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-95,text,true,,918,859,105,105,http://trans.icheckstage.com/,532,0,0
+1689732397981,629,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-198,text,true,,918,817,105,105,http://trans.icheckstage.com/,629,0,141
+1689732397960,650,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-194,text,true,,918,817,105,105,http://trans.icheckstage.com/,650,0,158
+1689732398125,485,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-99,text,true,,918,859,105,105,http://trans.icheckstage.com/,485,0,0
+1689732397935,675,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-189,text,true,,918,817,105,105,http://trans.icheckstage.com/,675,0,171
+1689732397954,657,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-193,text,true,,918,817,103,103,http://trans.icheckstage.com/,657,0,162
+1689732398124,487,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-85,text,true,,918,859,103,103,http://trans.icheckstage.com/,487,0,0
+1689732397944,667,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-191,text,true,,918,817,103,103,http://trans.icheckstage.com/,667,0,172
+1689732397950,662,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-192,text,true,,918,817,102,102,http://trans.icheckstage.com/,662,0,166
+1689732397845,770,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-171,text,true,,918,817,102,102,http://trans.icheckstage.com/,770,0,132
+1689732397544,1077,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-111,text,true,,918,817,102,102,http://trans.icheckstage.com/,1077,0,119
+1689732397445,1177,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-91,text,true,,918,817,102,102,http://trans.icheckstage.com/,1176,0,142
+1689732397644,978,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-131,text,true,,918,817,102,102,http://trans.icheckstage.com/,978,0,140
+1689732397635,987,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-129,text,true,,918,817,102,102,http://trans.icheckstage.com/,987,0,149
+1689732397528,1094,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-108,text,true,,918,817,102,102,http://trans.icheckstage.com/,1094,0,133
+1689732397925,697,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-187,text,true,,918,817,102,102,http://trans.icheckstage.com/,697,0,123
+1689732397641,981,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-130,text,true,,918,817,102,102,http://trans.icheckstage.com/,981,0,146
+1689732397495,1127,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-101,text,true,,918,817,102,102,http://trans.icheckstage.com/,1127,0,113
+1689732397660,963,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-134,text,true,,918,817,102,102,http://trans.icheckstage.com/,963,0,124
+1689732397965,659,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-195,text,true,,918,817,102,102,http://trans.icheckstage.com/,659,0,157
+1689732397975,649,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-197,text,true,,918,817,102,102,http://trans.icheckstage.com/,649,0,147
+1689732397985,639,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-199,text,true,,918,817,102,102,http://trans.icheckstage.com/,639,0,139
+1689732397915,713,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-185,text,true,,918,817,102,102,http://trans.icheckstage.com/,713,0,133
+1689732397991,638,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-200,text,true,,918,817,102,102,http://trans.icheckstage.com/,638,0,133
+1689732397970,659,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-196,text,true,,918,817,102,102,http://trans.icheckstage.com/,659,0,152
+1689732397848,782,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-66,text,true,,918,859,102,102,http://trans.icheckstage.com/,782,0,0
+1689732397880,769,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-178,text,true,,918,817,101,101,http://trans.icheckstage.com/,769,0,128
+1689732397906,743,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-183,text,true,,918,817,101,101,http://trans.icheckstage.com/,743,0,144
+1689732397885,764,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-179,text,true,,918,817,101,101,http://trans.icheckstage.com/,764,0,123
+1689732397920,729,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-186,text,true,,918,817,101,101,http://trans.icheckstage.com/,729,0,130
+1689732397871,778,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-176,text,true,,918,817,101,101,http://trans.icheckstage.com/,778,0,137
+1689732397836,813,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-169,text,true,,918,817,101,101,http://trans.icheckstage.com/,813,0,139
+1689732397849,800,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-172,text,true,,918,817,101,101,http://trans.icheckstage.com/,800,0,159
+1689732398516,139,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-141,text,true,,918,859,101,101,http://trans.icheckstage.com/,139,0,0
+1689732397609,1049,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-55,text,true,,918,859,100,100,http://trans.icheckstage.com/,1049,0,0
+1689732398518,142,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-188,text,true,,918,859,99,99,http://trans.icheckstage.com/,142,0,0
+1689732397911,749,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-184,text,true,,918,817,99,99,http://trans.icheckstage.com/,749,0,139
+1689732398516,144,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-144,text,true,,918,859,99,99,http://trans.icheckstage.com/,144,0,0
+1689732398510,155,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-136,text,true,,918,859,97,97,http://trans.icheckstage.com/,154,0,0
+1689732398517,148,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-135,text,true,,918,859,97,97,http://trans.icheckstage.com/,148,0,0
+1689732397876,791,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-177,text,true,,918,817,95,95,http://trans.icheckstage.com/,791,0,132
+1689732397830,837,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-168,text,true,,918,817,95,95,http://trans.icheckstage.com/,837,0,145
+1689732397854,813,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-173,text,true,,918,817,95,95,http://trans.icheckstage.com/,813,0,152
+1689732397809,867,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-164,text,true,,918,817,95,95,http://trans.icheckstage.com/,867,0,152
+1689732398508,172,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-181,text,true,,918,859,95,95,http://trans.icheckstage.com/,172,0,0
+1689732397814,866,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-165,text,true,,918,817,95,95,http://trans.icheckstage.com/,866,0,161
+1689732398446,243,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-162,text,true,,918,859,94,94,http://trans.icheckstage.com/,243,0,0
+1689732398419,272,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-58,text,true,,918,859,93,93,http://trans.icheckstage.com/,272,0,0
+1689732398449,242,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-154,text,true,,918,859,93,93,http://trans.icheckstage.com/,242,0,0
+1689732397859,832,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-174,text,true,,918,817,93,93,http://trans.icheckstage.com/,832,0,147
+1689732398447,247,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-166,text,true,,918,859,91,91,http://trans.icheckstage.com/,247,0,0
+1689732398445,258,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-151,text,true,,918,859,90,90,http://trans.icheckstage.com/,258,0,0
+1689732398419,286,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-104,text,true,,918,859,89,89,http://trans.icheckstage.com/,286,0,0
+1689732398445,264,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-147,text,true,,918,859,88,88,http://trans.icheckstage.com/,264,0,0
+1689732398545,164,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-84,text,true,,918,859,88,88,http://trans.icheckstage.com/,164,0,0
+1689732398564,155,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-180,text,true,,918,859,86,86,http://trans.icheckstage.com/,155,0,0
+1689732398494,230,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-142,text,true,,918,859,85,85,http://trans.icheckstage.com/,230,0,0
+1689732398481,243,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-182,text,true,,918,859,85,85,http://trans.icheckstage.com/,243,0,0
+1689732397680,1051,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-138,text,true,,918,817,83,83,http://trans.icheckstage.com/,1051,0,166
+1689732397685,1046,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-139,text,true,,918,817,83,83,http://trans.icheckstage.com/,1046,0,161
+1689732397620,1111,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-126,text,true,,918,817,83,83,http://trans.icheckstage.com/,1111,0,162
+1689732397675,1056,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-137,text,true,,918,817,83,83,http://trans.icheckstage.com/,1056,0,171
+1689732397656,1075,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-133,text,true,,918,817,83,83,http://trans.icheckstage.com/,1075,0,131
+1689732397692,1039,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-140,text,true,,918,817,83,83,http://trans.icheckstage.com/,1039,0,154
+1689732397550,1182,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-112,text,true,,918,817,83,83,http://trans.icheckstage.com/,1182,0,154
+1689732397615,1117,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-125,text,true,,918,817,83,83,http://trans.icheckstage.com/,1117,0,167
+1689732397575,1157,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-117,text,true,,918,817,83,83,http://trans.icheckstage.com/,1157,0,151
+1689732398611,121,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-189,text,true,,918,859,83,83,http://trans.icheckstage.com/,121,0,0
+1689732397536,1196,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-109,text,true,,918,817,83,83,http://trans.icheckstage.com/,1196,0,127
+1689732398449,283,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-160,text,true,,918,859,83,83,http://trans.icheckstage.com/,283,0,0
+1689732398449,288,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-170,text,true,,918,859,81,81,http://trans.icheckstage.com/,288,0,0
+1689732398610,136,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-198,text,true,,918,859,80,80,http://trans.icheckstage.com/,136,0,0
+1689732398575,171,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-190,text,true,,918,859,80,80,http://trans.icheckstage.com/,171,0,0
+1689732398611,140,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-193,text,true,,918,859,78,78,http://trans.icheckstage.com/,140,0,0
+1689732398612,139,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-192,text,true,,918,859,78,78,http://trans.icheckstage.com/,139,0,0
+1689732398616,139,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-171,text,true,,918,859,76,76,http://trans.icheckstage.com/,139,0,0
+1689732398445,310,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-150,text,true,,918,859,76,76,http://trans.icheckstage.com/,310,0,0
+1689732398611,144,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-191,text,true,,918,859,76,76,http://trans.icheckstage.com/,144,0,0
+1689732398610,147,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-194,text,true,,918,859,73,73,http://trans.icheckstage.com/,147,0,0
+1689732398445,324,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-159,text,true,,918,859,72,72,http://trans.icheckstage.com/,324,0,0
+1689732398649,122,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-179,text,true,,918,859,71,71,http://trans.icheckstage.com/,122,0,0
+1689732398449,325,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-175,text,true,,918,859,70,70,http://trans.icheckstage.com/,325,0,0
+1689732398628,151,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-185,text,true,,918,859,69,69,http://trans.icheckstage.com/,151,0,0
+1689732398446,333,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-167,text,true,,918,859,69,69,http://trans.icheckstage.com/,333,0,0
+1689732398419,360,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-103,text,true,,918,859,69,69,http://trans.icheckstage.com/,360,0,0
+1689732398629,152,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-200,text,true,,918,859,66,66,http://trans.icheckstage.com/,152,0,0
+1689732397803,985,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-163,text,true,,918,817,65,65,http://trans.icheckstage.com/,985,0,155
+1689732397650,1138,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-132,text,true,,918,817,65,65,http://trans.icheckstage.com/,1138,0,137
+1689732397540,1248,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-110,text,true,,918,817,65,65,http://trans.icheckstage.com/,1248,0,125
+1689732397581,1207,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-118,text,true,,918,817,65,65,http://trans.icheckstage.com/,1207,0,173
+1689732397630,1158,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-128,text,true,,918,817,65,65,http://trans.icheckstage.com/,1158,0,152
+1689732397601,1187,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-122,text,true,,918,817,65,65,http://trans.icheckstage.com/,1187,0,173
+1689732398629,164,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-196,text,true,,918,859,65,65,http://trans.icheckstage.com/,164,0,0
+1689732398419,376,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-102,text,true,,918,859,64,64,http://trans.icheckstage.com/,376,0,0
+1689732398239,560,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-65,text,true,,918,859,63,63,http://trans.icheckstage.com/,560,0,0
+1689732398622,182,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-131,text,true,,918,859,62,62,http://trans.icheckstage.com/,182,0,0
+1689732398239,565,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-31,text,true,,918,859,62,62,http://trans.icheckstage.com/,565,0,0
+1689732398624,183,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-195,text,true,,918,859,60,60,http://trans.icheckstage.com/,183,0,0
+1689732398624,183,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-197,text,true,,918,859,60,60,http://trans.icheckstage.com/,183,0,0
+1689732398624,189,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-199,text,true,,918,859,58,58,http://trans.icheckstage.com/,189,0,0
+1689732398623,190,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-134,text,true,,918,859,58,58,http://trans.icheckstage.com/,190,0,0
+1689732398623,195,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-101,text,true,,918,859,56,56,http://trans.icheckstage.com/,195,0,0
+1689732398649,179,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-183,text,true,,918,859,55,55,http://trans.icheckstage.com/,179,0,0
+1689732398622,207,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-187,text,true,,918,859,54,54,http://trans.icheckstage.com/,207,0,0
+1689732398622,210,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-108,text,true,,918,859,53,53,http://trans.icheckstage.com/,210,0,0
+1689732398622,214,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-130,text,true,,918,859,52,52,http://trans.icheckstage.com/,214,0,0
+1689732397715,1124,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-145,text,true,,918,817,51,51,http://trans.icheckstage.com/,1124,0,171
+1689732397720,1119,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-146,text,true,,918,817,51,51,http://trans.icheckstage.com/,1119,0,166
+1689732398151,689,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-124,text,true,,918,859,51,51,http://trans.icheckstage.com/,688,0,0
+1689732397729,1111,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-148,text,true,,918,817,51,51,http://trans.icheckstage.com/,1110,0,157
+1689732397706,1133,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-143,text,true,,918,817,51,51,http://trans.icheckstage.com/,1133,0,142
+1689732397734,1106,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-149,text,true,,918,817,51,51,http://trans.icheckstage.com/,1106,0,152
+1689732398649,191,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-186,text,true,,918,859,51,51,http://trans.icheckstage.com/,191,0,0
+1689732398650,190,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-172,text,true,,918,859,49,49,http://trans.icheckstage.com/,190,0,0
+1689732398622,228,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-111,text,true,,918,859,48,48,http://trans.icheckstage.com/,228,0,0
+1689732398649,201,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-178,text,true,,918,859,48,48,http://trans.icheckstage.com/,201,0,0
+1689732398649,201,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-176,text,true,,918,859,48,48,http://trans.icheckstage.com/,201,0,0
+1689732397757,1157,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-153,text,true,,918,817,45,45,http://trans.icheckstage.com/,1157,0,194
+1689732398676,257,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-164,text,true,,918,859,45,45,http://trans.icheckstage.com/,257,0,0
+1689732398660,278,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-184,text,true,,918,859,44,44,http://trans.icheckstage.com/,278,0,0
+1689732398731,220,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-138,text,true,,918,859,43,43,http://trans.icheckstage.com/,220,0,0
+1689732398692,259,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-174,text,true,,918,859,43,43,http://trans.icheckstage.com/,259,0,0
+1689732398731,228,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-133,text,true,,918,859,41,41,http://trans.icheckstage.com/,228,0,0
+1689732398731,231,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-137,text,true,,918,859,40,40,http://trans.icheckstage.com/,231,0,0
+1689732398343,623,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-70,text,true,,918,859,39,39,http://trans.icheckstage.com/,623,0,0
+1689732398731,237,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-139,text,true,,918,859,38,38,http://trans.icheckstage.com/,237,0,0
+1689732398732,239,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-112,text,true,,918,859,37,37,http://trans.icheckstage.com/,239,0,0
+1689732398731,240,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-126,text,true,,918,859,37,37,http://trans.icheckstage.com/,240,0,0
+1689732398667,304,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-168,text,true,,918,859,37,37,http://trans.icheckstage.com/,304,0,0
+1689732398732,244,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-140,text,true,,918,859,34,34,http://trans.icheckstage.com/,244,0,0
+1689732398732,250,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-125,text,true,,918,859,33,33,http://trans.icheckstage.com/,250,0,0
+1689732398788,199,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-132,text,true,,918,859,32,32,http://trans.icheckstage.com/,199,0,0
+1689732398789,198,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-110,text,true,,918,859,32,32,http://trans.icheckstage.com/,198,0,0
+1689732398732,262,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-109,text,true,,918,859,30,30,http://trans.icheckstage.com/,262,0,0
+1689732398788,206,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-163,text,true,,918,859,30,30,http://trans.icheckstage.com/,206,0,0
+1689732398788,211,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-128,text,true,,918,859,28,28,http://trans.icheckstage.com/,210,0,0
+1689732398788,210,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-122,text,true,,918,859,28,28,http://trans.icheckstage.com/,210,0,0
+1689732398788,214,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-118,text,true,,918,859,26,26,http://trans.icheckstage.com/,214,0,0
+1689732398343,659,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-71,text,true,,918,859,26,26,http://trans.icheckstage.com/,659,0,0
+1689732398367,640,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-157,text,true,,918,859,24,24,http://trans.icheckstage.com/,640,0,0
+1689732398370,637,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-158,text,true,,918,859,24,24,http://trans.icheckstage.com/,637,0,0
+1689732398367,640,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-161,text,true,,918,859,24,24,http://trans.icheckstage.com/,640,0,0
+1689732398370,637,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-156,text,true,,918,859,24,24,http://trans.icheckstage.com/,637,0,0
+1689732398841,180,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-149,text,true,,918,859,20,20,http://trans.icheckstage.com/,180,0,0
+1689732398649,375,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-169,text,true,,918,859,19,19,http://trans.icheckstage.com/,375,0,0
+1689732398840,187,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-148,text,true,,918,859,18,18,http://trans.icheckstage.com/,187,0,0
+1689732398622,405,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-91,text,true,,918,859,18,18,http://trans.icheckstage.com/,405,0,0
+1689732398239,792,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-14,text,true,,918,859,16,16,http://trans.icheckstage.com/,792,0,0
+1689732398680,351,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-165,text,true,,918,859,16,16,http://trans.icheckstage.com/,351,0,0
+1689732398667,364,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-177,text,true,,918,859,16,16,http://trans.icheckstage.com/,364,0,0
+1689732398840,191,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-146,text,true,,918,859,16,16,http://trans.icheckstage.com/,191,0,0
+1689732398622,409,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-129,text,true,,918,859,16,16,http://trans.icheckstage.com/,409,0,0
+1689732398253,781,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-60,text,true,,918,859,11,11,http://trans.icheckstage.com/,781,0,0
+1689732398253,785,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-32,text,true,,918,859,10,10,http://trans.icheckstage.com/,785,0,0
+1689732398914,128,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-153,text,true,,918,859,9,9,http://trans.icheckstage.com/,128,0,0
+1689732398841,205,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-143,text,true,,918,859,8,8,http://trans.icheckstage.com/,205,0,0
+1689732398370,676,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-155,text,true,,918,859,8,8,http://trans.icheckstage.com/,676,0,0
+1689732398372,686,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-152,text,true,,918,859,6,6,http://trans.icheckstage.com/,686,0,0
+1689732398841,217,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-145,text,true,,918,859,6,6,http://trans.icheckstage.com/,217,0,0
+1689732398667,552,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-173,text,true,,918,859,4,4,http://trans.icheckstage.com/,552,0,0
+1689732398732,623,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-117,text,true,,918,859,3,3,http://trans.icheckstage.com/,623,0,0
+1689732397159,3294,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-12,text,true,,918,817,2,2,http://trans.icheckstage.com/,3294,0,3199
+1689732397250,3211,VerifyRoutingNumber - Not Found,200,OK,ROUTING_NUMBER 1-52,text,true,,918,817,2,2,http://trans.icheckstage.com/,3211,0,3110
+1689732400455,96,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-12,text,true,,918,859,2,2,http://trans.icheckstage.com/,96,0,0
+1689732400461,94,VerifyRoutingNumber - Success,200,OK,ROUTING_NUMBER 1-52,text,true,,918,859,1,1,http://trans.icheckstage.com/,94,0,0
