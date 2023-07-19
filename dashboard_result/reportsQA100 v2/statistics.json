@@ -1,0 +1,34 @@
+{
+  "VerifyRoutingNumber - Not Found" : {
+    "transaction" : "VerifyRoutingNumber - Not Found",
+    "sampleCount" : 100,
+    "errorCount" : 46,
+    "errorPct" : 46.0,
+    "meanResTime" : 5505.799999999998,
+    "medianResTime" : 5145.5,
+    "minResTime" : 2962.0,
+    "maxResTime" : 7962.0,
+    "pct1ResTime" : 7487.9,
+    "pct2ResTime" : 7788.9,
+    "pct3ResTime" : 7961.07,
+    "throughput" : 12.558081125204069,
+    "receivedKBytesPerSec" : 9.994466595504207,
+    "sentKBytesPerSec" : 10.019484647745823
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 100,
+    "errorCount" : 46,
+    "errorPct" : 46.0,
+    "meanResTime" : 5505.799999999998,
+    "medianResTime" : 5145.5,
+    "minResTime" : 2962.0,
+    "maxResTime" : 7962.0,
+    "pct1ResTime" : 7487.9,
+    "pct2ResTime" : 7788.9,
+    "pct3ResTime" : 7961.07,
+    "throughput" : 12.558081125204069,
+    "receivedKBytesPerSec" : 9.994466595504207,
+    "sentKBytesPerSec" : 10.019484647745823
+  }
+}
